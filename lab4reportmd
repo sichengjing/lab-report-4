@@ -10,7 +10,7 @@
 vim DocSearchServer.java
 ```
 ![Image](1.png)
-To start, log in the remote account and clone the repository and put it in the week6-skill-demo2 dierectory.
+To start, log in to the remote account and clone the repository, and put it in the week6-skill-demo2 directory.
 
 ### Step 2
 ```
@@ -54,7 +54,6 @@ ndwibase<Esc>
 ![Image](7.png)
 Finding the next "start" and changing it into "base".
 
-
 ### Step 8
 ```
 n:wq<Enter>
@@ -63,3 +62,10 @@ n:wq<Enter>
 Once all the "start" are changed except the last one, save the file and leave.
 
 ## Part 2
+3'11" for the first method and 2'20" for the second method. No difficulties coming up.
+
+### Answer 1
+I prefer the second style, because it is faster and save time for doing scp.
+
+### Answer 2
+Nothing will affect this decision, because no matter what kind of project it is, this method will save much time for copying files from local to remote and logging in.
